@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Test Folder.CSharp", "UnityVS.Test Folder.CSharp.csproj", "{392EA7AF-3684-D707-6973-19A091D574EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Test Folder.CSharp.Editor", "UnityVS.Test Folder.CSharp.Editor.csproj", "{6CC80C1C-003C-4A36-00D1-9F8AF26C6F2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{392EA7AF-3684-D707-6973-19A091D574EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{392EA7AF-3684-D707-6973-19A091D574EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{392EA7AF-3684-D707-6973-19A091D574EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CC80C1C-003C-4A36-00D1-9F8AF26C6F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC80C1C-003C-4A36-00D1-9F8AF26C6F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC80C1C-003C-4A36-00D1-9F8AF26C6F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC80C1C-003C-4A36-00D1-9F8AF26C6F2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
